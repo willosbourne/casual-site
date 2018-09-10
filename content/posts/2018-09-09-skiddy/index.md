@@ -1,5 +1,5 @@
 ---
-title: Skiddy 🎹🎵
+title: Skiddy
 date: "2018-09-09T17:22:00.000Z"
 layout: post
 path: "/skiddy/"
@@ -13,4 +13,4 @@ This is one of the first songs that I fully developed in Ableton, where I now pr
 
 The weird inspiration behind this was essentially about a space dog named Skiddy who explored the galaxy. So uuuuh, yeah.
 
-Check this song out on [bandcamp](https://bangtilde.bandcamp.com/track/skiddy) and [SoundCloud](https://soundcloud.com/bang-tilde/skiddy)!
+Check this song out on [bandcamp](https://bang-tilde.bandcamp.com/track/skiddy) and [SoundCloud](https://soundcloud.com/bang-tilde/skiddy)!
