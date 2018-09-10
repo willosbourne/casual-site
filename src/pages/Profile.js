@@ -28,6 +28,7 @@ class Profile extends React.Component {
               <p className="lead text-muted">
                 Student, Web Developer, Subpar musician
               </p>
+              <a href="/bang-tilde">About Me Post</a>
               <div>
                 <a
                   ref="twButton"
