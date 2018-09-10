@@ -5,7 +5,6 @@ layout: post
 path: "/skiddy/"
 category: Music
 tags:
-  - Music
   - New Song
 ---
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1590625091/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://bangtilde.bandcamp.com/track/skiddy">Skiddy by Bang Tilde</a></iframe>
