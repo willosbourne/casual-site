@@ -11,6 +11,6 @@ tags:
     - Introduction
 ---
 
-what up, demons, its ya boi
+Learn where the name came from, and why its significant
 <!--more-->
-yeet
+Looks like I haven't written about it yet, sorry!

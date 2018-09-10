@@ -28,7 +28,6 @@ class Profile extends React.Component {
               <p className="lead text-muted">
                 Student, Web Developer, Subpar musician
               </p>
-              <a href="/bang-tilde">About Me Post</a>
               <div>
                 <a
                   ref="twButton"
@@ -46,13 +45,34 @@ class Profile extends React.Component {
             <div className="container">
               <div className="row">
                 <div className="col-lg-12">
-                  <h2 className="section-heading">SKILL</h2>
+                  <h2 className="section-heading">ABOUT ME</h2>
                   <hr className="border-white" />
                 </div>
               </div>
             </div>
             <div className="container">
-              <div className="row justify-content-md-center">
+              <p>
+                I'm a student at UC who mainly does web development work right
+                now for co-op, but I also do things like music. I'm making this
+                site to mainly get used to the development tools used to do it
+                (GatsbyJS and Netlify), but also to push myself toshare my music
+                more, which I've never really done.
+              </p>
+              <p>
+                I work in Ableton using an Arturia MiniLab MkII. I don't exactly
+                make a defined type of music normally, however usually anything
+                I make sounds like it should be from a video game and I tend to
+                lean into that vibe if it works right. I make music under the
+                name bang-tilde (or !~) which I go over why in&nbsp;
+                <a href="/bang-tilde" className="white-link">
+                  this blog post.
+                </a>
+              </p>
+              <p>
+                If you manage to get here without actually knowing me, feel free
+                to talk to me on twitter if you want.
+              </p>
+              {/* <div className="row justify-content-md-center">
                 <div className="col-lg-3 col-6">
                   <Icon title="HTML" name="html5" />
                 </div>
@@ -79,11 +99,11 @@ class Profile extends React.Component {
                 <div className="col-lg-3 col-6 ">
                   <Icon title="Swift" name="apple" />
                 </div>
-              </div>
+              </div> */}
             </div>
           </section>
 
-          <section id="features" className="text-center jumboimage">
+          {/* <section id="features" className="text-center jumboimage">
             <Img sizes={back1} className="cover-image" />
             <div className="container">
               <div className="row cover-over">
@@ -156,7 +176,7 @@ class Profile extends React.Component {
                 </div>
               </div>
             </div>
-          </section>
+          </section> */}
         </div>
       </Layout>
     )
