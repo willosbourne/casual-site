@@ -1,5 +1,5 @@
 ---
-title: "Bang Tilde !~"
+title: "bang-tilde !~"
 date: "2018-09-08T22:12:03.284Z"
 layout: post
 path: "/bang-tilde/"
