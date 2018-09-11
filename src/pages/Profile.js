@@ -55,8 +55,8 @@ class Profile extends React.Component {
                 I'm a student at UC who mainly does web development work right
                 now for co-op, but I also do things like music. I'm making this
                 site to mainly get used to the development tools used to do it
-                (GatsbyJS and Netlify), but also to push myself toshare my music
-                more, which I've never really done.
+                (GatsbyJS and Netlify), but also to push myself to share my
+                music more, which I've never really done.
               </p>
               <p>
                 I work in Ableton using an Arturia MiniLab MkII. I don't exactly
