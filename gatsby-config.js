@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Will / bang-tilde (!~)`,
-    description: 'Gatsby starter for bootstrap a blog',
-    siteUrl: 'https://gatstrap.netlify.com',
+    description: 'Will makes some music',
+    siteUrl: 'https://personal.willosbourne.com',
     author: 'Will Osbourne',
     twitter: 'WillGOsbourne',
     adsense: '',
