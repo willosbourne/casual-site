@@ -53,7 +53,7 @@ module.exports = {
         name: 'Will / bang-tilde (!~)',
         short_name: 'bang-tilde',
         description: 'Will makes some music',
-        homepage_url: 'https://gatstrap.netlify.com',
+        homepage_url: 'https://personal.willosbourne.com',
         start_url: '/',
         background_color: '#fff',
         theme_color: '#673ab7',
