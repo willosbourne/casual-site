@@ -50,9 +50,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Gatstrap',
-        short_name: 'Gatstrap',
-        description: 'Gatsby starter for bootstrap a blog',
+        name: 'Will / bang-tilde (!~)',
+        short_name: 'bang-tilde',
+        description: 'Will makes some music',
         homepage_url: 'https://gatstrap.netlify.com',
         start_url: '/',
         background_color: '#fff',
