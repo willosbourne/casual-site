@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Will / bang-tilde (!~)`,
     description: 'Will makes some music',
-    siteUrl: 'https://personal.willosbourne.com',
+    siteUrl: 'https://personal.willosbourne.com/',
     author: 'Will Osbourne',
     twitter: 'WillGOsbourne',
     adsense: '',
