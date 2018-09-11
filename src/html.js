@@ -23,34 +23,6 @@ export default class HTML extends React.Component {
           />
           <link href="/img/favicon.ico" rel="icon" type="image/x-icon" />
 
-          {/* adding tags */}
-          {/* <!-- COMMON TAGS --> */}
-          <meta charset="utf-8" />
-          <title>Will / bang-tilde (!~)</title>
-          {/* <!-- Search Engine --> */}
-          <meta name="description" content="Will makes some music" />
-          <meta name="image" content="/img/android-chrome-512x512.png" />
-          {/* <!-- Schema.org for Google --> */}
-          <meta itemprop="name" content="Will / bang-tilde (!~)" />
-          <meta itemprop="description" content="Will makes some music" />
-          <meta itemprop="image" content="/img/android-chrome-512x512.png" />
-          {/* <!-- Twitter --> */}
-          <meta name="twitter:card" content="summary" />
-          <meta name="twitter:title" content="Will / bang-tilde (!~)" />
-          <meta name="twitter:description" content="Will makes some music" />
-          <meta name="twitter:site" content="@WillGOsbourne" />
-          <meta name="twitter:creator" content="@WillGOsbourne" />
-          <meta
-            name="twitter:image:src"
-            content="/img/android-chrome-512x512.png"
-          />
-          {/* <!-- Open Graph general (Facebook, Pinterest & Google+) --> */}
-          <meta name="og:title" content="Will / bang-tilde (!~)" />
-          <meta name="og:description" content="Will makes some music" />
-          <meta name="og:image" content="/img/android-chrome-512x512.png" />
-          <meta name="og:url" content="https://personal.willosbourne.com" />
-          <meta name="og:site_name" content="Will / bang-tilde (!~)" />
-          <meta name="og:type" content="website" />
         </head>
         <body>
           <div
