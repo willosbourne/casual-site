@@ -1,6 +1,6 @@
 # Will / bang-tilde
 
-Will makes some music
+Will made some music
 
 ---
 
